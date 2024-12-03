@@ -29,7 +29,7 @@ Clone the repository to your local machine:
 
 
 ```bash
-  git clone https://github.com/lokesh-cuttamanchi/IPL-Predictor-2024.git
+  git clone https://github.com/bhuvanbandi/IPL-WIN-PREDICTOR.git
 ```
 
 Install the required dependencies:
@@ -44,13 +44,17 @@ Run the project:
   streamlit run main.py
 ```
 
+## 🔗 Live Link
+
+Access the live version of the project here:  
+👉 [IPL Victory Predictor](https://ipl-win-predictor-yg82.onrender.com/)
+
+
 ## Screenshots
 
-![Screenshot 2024-05-10 140957](https://github.com/lokesh-cuttamanchi/IPL-Predictor-2024/assets/133412331/6d20046d-c78b-4be1-8b23-3cf2aaafe241)
+![Screenshot 2024-05-10 140957](https://github.com/bhuvanbandi/IPL-WIN-PREDICTOR/blob/288cc292b52fb89a65d1c092f8454b40b417141a/demo.png)
 
 
 
-## Authors
 
-- [@lokesh_cuttamanchi](https://github.com/lokesh-cuttamanchi)
 
